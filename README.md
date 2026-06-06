@@ -24,6 +24,8 @@ Bu oyunda düğün yalnızca arka plan değildir; korunması gereken ana hedefti
 
 📊 **Game Jam Presentation / Google Slides:**  
 
+https://docs.google.com/presentation/d/1Vfa_uFv4Dq_po6HSVv9scEOqpXUdE9_ztQcSu0EQkPA/edit?usp=sharing
+
 ---
 
 ## Game Concept
