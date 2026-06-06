@@ -17,14 +17,12 @@ Bu oyunda düğün yalnızca arka plan değildir; korunması gereken ana hedefti
 ## Demo Video
 
 🎥 **Demo Video:**  
-[Demo videosunu buraya ekleyin](DEMO_VIDEO_LINK_HERE)
 
 ---
 
 ## Presentation
 
 📊 **Game Jam Presentation / Google Slides:**  
-[Sunumu buraya ekleyin](GOOGLE_SLIDES_LINK_HERE)
 
 ---
 
