@@ -17,7 +17,7 @@ Bu oyunda düğün yalnızca arka plan değildir; korunması gereken ana hedefti
 ## Demo Video
 
 🎥 **Demo Video:**  
-
+https://docs.google.com/videos/d/1oi_R812l-ehsjvu6_WlBZxxep17thFrk1ZiOuSImAZE/edit?usp=sharing
 ---
 
 ## Presentation
